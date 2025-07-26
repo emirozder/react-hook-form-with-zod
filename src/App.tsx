@@ -1,5 +1,5 @@
 const App = () => {
-  return <div>App</div>;
+  return <div>React Hook Form with Zod</div>;
 };
 
 export default App;
